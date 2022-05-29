@@ -1,7 +1,7 @@
 {
 	"name": "Мартюшева Анна",
-	"age": "40",
-	"pets number": "1",
+	"age": 40,
+	"pets number": 1,
 	"expected salary": "1000$"
 }
 
