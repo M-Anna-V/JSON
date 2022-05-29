@@ -1,20 +1,12 @@
-Bug template
-Telegram nickname:
-Bug_id: 
-Title: 
-
-Severity: 
-Priority: 
-
-Environment: 1)
-		       2)
-		       3) 
-Precondition: 
-
-STR: 
-
-
-AR:
-
-ER: 
-Attachments: 
+{
+	"Bug_id": 1,
+	"Title": "The "SAVE DATA" button is smaller than the others",
+	"Severity": "trivial",
+	"Priority": "low",
+	"Environment": "Xiaomi Redmi Note 8 Pro, android 10 QP1A 12.0.8 MIUI  global 12.0.8.0",      
+	"Precondition": "Open the app",
+	"STR": "Check the UI",
+	"AR": "The application buttons have one view",
+	"ER": "The “SAVE DATA” button is smaller than the others",
+	"Attachments": "Screenshot1"
+}
